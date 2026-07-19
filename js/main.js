@@ -7,7 +7,7 @@
   'use strict';
 
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const WA_PHONE = '52871476667';
+  const WA_PHONE = '528714058700';
 
   /* ── Footer year ─────────────────────────────────────────── */
   const yearEl = document.getElementById('year');
